@@ -6,4 +6,7 @@ Majority of the code belongs to ForeignGuyMike, the asteroid 2-D elastic collisi
 Use this code freely as you want, for educational and fun uses.
 
 Some fun pics
-![Alt text]("https://github.com/ToniaSanzo/Asteroids/blob/master/Pictures/Screenshot%20from%202020-03-12%2010-17-27.png") 
+![](pics/asteroids1.png) 
+![](pics/asteroids2.png) 
+![](pics/asteroids3.png) 
+![](pics/asteroids4.png) 
